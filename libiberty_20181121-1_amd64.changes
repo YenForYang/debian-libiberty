@@ -1,0 +1,26 @@
+Format: 1.8
+Date: Wed, 21 Nov 2018 09:53:04 +0100
+Source: libiberty
+Binary: libiberty-dev
+Built-For-Profiles: nobiarch nocheck nodoc
+Architecture: amd64
+Version: 20181121-1
+Distribution: unstable
+Urgency: medium
+Maintainer: Debian GCC Maintainers <debian-gcc@lists.debian.org>
+Changed-By: Matthias Klose <doko@debian.org>
+Description:
+ libiberty-dev - library of utility functions used by GNU programs
+Changes:
+ libiberty (20181121-1) unstable; urgency=medium
+ .
+   * Update to 20181121.
+Checksums-Sha1:
+ e21aa81549a479b33069f7484ba56f0f584ea9ee 1797416 libiberty-dev_20181121-1_amd64.deb
+ 895714098f516a852185c248198cee0f84145263 4837 libiberty_20181121-1_amd64.buildinfo
+Checksums-Sha256:
+ 7a5aace24a33c0de2a69b4a962b464849b5e60bf9a5ab8a6263ec5b9301111e5 1797416 libiberty-dev_20181121-1_amd64.deb
+ 2f51f6f6f7d7f781594c2573576ac52669060572b16a03f26bf80f4091685593 4837 libiberty_20181121-1_amd64.buildinfo
+Files:
+ c06672a3cc7983fb7ec674df7ecd69b0 1797416 libdevel optional libiberty-dev_20181121-1_amd64.deb
+ 1b57f2c428f3d4ca238f0c8690a0ea45 4837 libdevel optional libiberty_20181121-1_amd64.buildinfo

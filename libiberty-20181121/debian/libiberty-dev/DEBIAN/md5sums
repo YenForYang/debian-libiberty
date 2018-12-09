@@ -1,0 +1,16 @@
+3f5ddc5710c7c1be34b403ff07650091  usr/include/libiberty/ansidecl.h
+35a9e2ae2c1f5c00c6d7566b20a6d947  usr/include/libiberty/demangle.h
+0109815bce024e5a11a37c6adaec69b1  usr/include/libiberty/dyn-string.h
+b5e4c5a63f55f91d209087edef1340eb  usr/include/libiberty/fibheap.h
+71a8377cc3d3defc2979a148c94532c7  usr/include/libiberty/floatformat.h
+810af656d62bf4d126e8ac209c33fb19  usr/include/libiberty/hashtab.h
+1ef42a130cb3b81a72cef05170d4600b  usr/include/libiberty/libiberty.h
+de14c7a5d8d1ce55fda864a08a3d1990  usr/include/libiberty/objalloc.h
+84eb7b0d513927d61ec129266ca1c5a4  usr/include/libiberty/partition.h
+2473f072b54d2d1dc3e12b495675a2bb  usr/include/libiberty/safe-ctype.h
+9813764968d64c4bab37874b2e3b661f  usr/include/libiberty/sort.h
+dba6f24691254ca1333ae3aa858af9b2  usr/include/libiberty/splay-tree.h
+3695f27151c3e8b53ff0a11c93175e8a  usr/include/libiberty/timeval-utils.h
+28371e5c82c1531ae8d7a2d4c6661b98  usr/lib/x86_64-linux-gnu/libiberty.a
+1d15bb838dc04cb45fb94d259464c128  usr/share/doc/libiberty-dev/changelog.Debian.gz
+854b37eb045b7b0fc3926ed7cc5aa4dd  usr/share/doc/libiberty-dev/copyright
